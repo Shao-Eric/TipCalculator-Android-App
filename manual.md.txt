@@ -1,0 +1,13 @@
+This TipCalculator require API 21 or above.
+
+User has to enter a valid checkAmount and the partySize to run the app,
+Or a Toast error message will pop up saying you must enter a valid input.
+
+Once the ComputeButton is clicked, the user will see the amount of tips
+each person has to pay in the party. 
+
+The total amount is the amount of the check divided by the party size then
+plus the amount of tips each person is responsible for (Rounded to the nearest integer).
+
+
+The App will display the total amount in 15%, 20% and 25%.

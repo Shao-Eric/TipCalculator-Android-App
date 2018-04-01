@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="checkAmount">Check Amount: </string>
+    <string name="partySize">Party Size: </string>
+    <string name="computeButton">COMPUTE BUTTON</string>
+    <string name="tipFifteen">Tip 15%: </string>
+    <string name="totalFifteen">Total 15%: </string>
+    <string name="tipTwenty">Tip 20%:</string>
+    <string name="totalTwenty">20%:</string>
+    <string name="tipTwentyFive">Tip 25%:</string>
+    <string name="totalTwentyFive">25%:</string>
+</resources>
